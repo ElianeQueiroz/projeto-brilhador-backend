@@ -37,7 +37,7 @@
   
   <h3>  Recursos humanos</h3>
    <h5>Pedro Kappes - 12904937</h5>
-   <h5> Aluno - RGM </h5>
+   <h5> Eliane - 13313851</h5>
    <h5> Aluno - RGM </h5>
    <h5> Aluno - RGM </h5>
    <h5> Aluno - RGM </h5>
